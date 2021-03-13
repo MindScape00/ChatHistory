@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: Chat History
+## Notes: Logs and prints the last messages between sessions.
+## Author: Vladinator
+## Version: 7.0.0.160808 (MindScape Edition)
+## SavedVariables: ChatHistoryDB2
+ChatHistory.lua
